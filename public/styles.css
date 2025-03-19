@@ -1,0 +1,40 @@
+/* latin */
+
+
+@font-face {
+    font-family: "PostFinance Grotesk";
+    font-style: normal
+    font-weight: 400;
+    font-display: swap;
+    src: url("PostFinanceGrotesk-Light.woff2") format("woff2");
+
+    
+}
+
+@font-face {
+    font-family: "PostFinance Grotesk";
+    font-style: italic   
+    font-weight: 400;
+    font-display: swap;
+    src: url("PostFinanceGrotesk-LightKursiv.woff2") format("woff2");
+
+
+}
+
+@font-face {
+    font-family: "PostFinance Grotesk";
+    font-style: normal
+    font-weight: 700;
+    font-display: swap;
+    src: url("PostFinanceGrotesk-Bold.woff2") format("woff2");
+
+
+}
+
+@font-face {
+    font-family: "PostFinance Grotesk";
+    font-style: italic
+    font-weight: 700;
+    font-display: swap;
+    src: url("PostFinanceGrotesk-BoldKursiv.woff2") format("woff2");
+}

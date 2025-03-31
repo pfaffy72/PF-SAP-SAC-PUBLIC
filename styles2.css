@@ -19,7 +19,7 @@
 @font-face {
     font-family: "PostFinance Grotesk";
     src: url("PostFinanceGrotesk-Light.woff2") format("woff2");
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal
     font-display: swap;
 }
@@ -27,7 +27,7 @@
 @font-face {
     font-family: "PostFinance Grotesk";
     src: url("PostFinanceGrotesk-LightKursiv.woff2") format("woff2");
-    font-weight: 200;
+    font-weight: 400;
     font-style: italic
     font-display: swap;
 }
